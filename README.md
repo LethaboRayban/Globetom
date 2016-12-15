@@ -2,8 +2,9 @@
 
 1) import Globetom_blog.sql database 
 2) run php server 
-3) login with username = user password = user , to view a list of all post 
-4) login with username = admin password = admin , to edit and delete posts 
+3) Add your phpMyAdmin login details in connect.php 
+4) login with username = user password = user , to view a list of all post 
+5) login with username = admin password = admin , to edit and delete posts 
 
 ******************************************************************************
 
